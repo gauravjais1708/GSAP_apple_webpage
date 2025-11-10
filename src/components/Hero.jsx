@@ -13,11 +13,11 @@ const Hero = () => {
             <img src='/public/title.png' />
 
         </div>
-        <video ref={VideoRef} src='/public/videos/hero.mp4' autoPlay muted playsInline/>
+        <video ref={VideoRef} src='/public/videos/hero.mp4' autoPlay  muted playsInline/>
         <button>
             Buy
         </button>
-        <p> From ₹79,999 or ₹6,999 for 12 months</p>
+        <p> From ₹1,29,999 or ₹11,999 for 12 months</p>
     </section>
   )
 }
